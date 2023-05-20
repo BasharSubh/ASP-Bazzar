@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Web Developer Express 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\bazaar\", "bazaar\", "{7E6A439D-A40D-4E3F-BD6D-8A699A53DA62}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/bazaar"
+		Debug.AspNetCompiler.PhysicalPath = "bazaar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\bazaar\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/bazaar"
+		Release.AspNetCompiler.PhysicalPath = "bazaar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\bazaar\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1651"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6A439D-A40D-4E3F-BD6D-8A699A53DA62}.Debug|.NET.ActiveCfg = Debug|.NET
+		{7E6A439D-A40D-4E3F-BD6D-8A699A53DA62}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
